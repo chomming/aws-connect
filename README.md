@@ -32,3 +32,6 @@
 ## 실제 전화번호와 연동하기
 - https://[connect주소].my.connect.aws/contact-flows/edit?id=arn:aws:connect:ap-northeast-1:[계정Id]:instance/[InstanceId]/contact-flow/[ContactFlowId]
 - [lambda 코드]([https://github.com/chomming/aws-connect/blob/main/index.js](https://github.com/chomming/aws-connect/tree/main)https://github.com/chomming/aws-connect/tree/main)
+
+## lambda 코드 DestinationNotAllowedException 오류
+
